@@ -3,9 +3,7 @@
 ## Data Analyst | Dashboard Developer | Data Storyteller
 
 I am a data analyst with a background in Economics and hands-on experience transforming raw data into clear, actionable business insights.
-
 I enjoy exploring data, identifying meaningful patterns and presenting findings through professional dashboards and simple data storytelling.
-
 My goal is to help organisations make informed decisions by turning complex information into insights that are easy to understand and act on.
 
 ---
@@ -36,7 +34,7 @@ My goal is to help organisations make informed decisions by turning complex info
 
 I am open to data analyst opportunities, freelance projects and professional collaborations.
 
-📍 Durban, South Africa  
+📍 I am based in Durban, South Africa  
 💼 Open to remote opportunities  
 📧 **Email:** ngobonomfundo.p@gmail.com  
 🔗 **LinkedIn:** [Connect with me](inkedin.com/in/nomfundo-ngcobo/)
